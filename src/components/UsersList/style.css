@@ -1,0 +1,15 @@
+.ListHead{
+    font-family: Microsoft Sans Serif;;
+    text-align: center;
+}
+.ListHead ol{
+    display:inline-block;
+}
+.ListHead li{
+    text-align: left;
+    font-size:15px;
+}
+span{
+    margin: 10px;
+    font-weight: bolder;
+}
