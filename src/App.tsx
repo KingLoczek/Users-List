@@ -7,8 +7,8 @@ import ChangeTheme from "./components/ChangeTheme";
 const App = () => {
   return(
     <ThemeProvider>
-      <Main />
       <ChangeTheme/>
+      <Main />
   </ThemeProvider>
   )
 }

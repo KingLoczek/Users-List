@@ -3,11 +3,12 @@ color: #fff !important;
 text-transform: uppercase;
 text-decoration: none;
 background: #8b8b8b;
-padding: 20px;
+padding: 5px;
 border-radius: 5px;
 display: inline-block;
 border: none;
 transition: all 0.4s ease 0s;
+
 }
 .SwitchButton:hover{
 background: #434343;

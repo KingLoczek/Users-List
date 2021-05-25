@@ -12,8 +12,8 @@ const Main:React.FC= () => {
              <Header/>
         </div>
             <UsersProvider searchText={showUser}>
-                <UsersList />
                 <Debounce onChange={setShowUser}/>
+                <UsersList />
             </UsersProvider>
         </div>
     )
